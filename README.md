@@ -12,7 +12,7 @@ Right now, I’m leveling up in machine learning and predictive analytics, focus
 - 🚚 Predictive Modeling for ROI in Logistics: Developed machine learning models to predict return on investment for logistics operations, improving accuracy by 25%. Applied network analysis to streamline logistical operations and enhance efficiency across the supply chain.
 
 ## 🏹 Follow My Journey：
-- Interested in data-driven projects or machine learning collaborations? Reach out to me through [LinkedIn](https://www.linkedin.com/in/rhonda-wang/)
+- Interested in data-driven projects or machine learning collaborations? Reach out to me through [LinkedIn](https://www.linkedin.com/in/rhonda-wang/).
 - Got questions or want to discuss data trends? I’m always happy to chat 💭!
 
 ## ⚙️ My Development Environment：
