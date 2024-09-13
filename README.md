@@ -5,7 +5,7 @@ I’m a data science enthusiast with a huge passion for using Python to dig up c
 Right now, I’m leveling up in machine learning and predictive analytics, focusing on using these skills to make smarter decisions and develop better strategies. Let’s collaborate 💌 !
 
 ## 🌟 Featured Projects：
-- 📊 Criminal Analysis of Boston and Los Angeles: Led a comprehensive analysis of crime trends from 2020-2024, focusing on the impact of the COVID-19 pandemic on urban safety. Applied geospatial visualization and linear regression to explore relationships between crime rates and socio-economic factors, offering valuable insights for public safety strategies.
+- 📊 Criminal Analysis of Boston & Los Angeles: Led a comprehensive analysis of crime trends from 2020-2024, focusing on the impact of the COVID-19 pandemic on urban safety. Applied geospatial visualization and linear regression to explore relationships between crime rates and socio-economic factors, offering valuable insights for public safety strategies.
 
 - 🎵 Quantitative Analysis of Spotify’s Top 50 Tracks: Utilized Python and Pandas to uncover trends in Spotify’s top 50 tracks, analyzing song attributes like danceability and genre in relation to their popularity. This project provided key insights into how users engage with music on a global scale.
 
