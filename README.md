@@ -1,5 +1,7 @@
 # Heyyy there! I'm Rhonda 🤍🧋🫧👩🏻‍💻
 
+![Header](https://github.com/rhondawanggg/rhondawanggg/raw/main/Green%20and%20White%20Minimalist%20Business%20Profile%20with%20Photo%20Profile%20LinkedIn%20Banner.png)
+
 I’m a data science enthusiast with a huge passion for using Python to dig up cool insights and tackle real-world problems. Whether I’m analyzing massive datasets or building predictive models, I love diving deep into patterns and finding ways to make things work more efficiently. From exploring crime trends in cities to uncovering music preferences, I’m always on the lookout for new and exciting data science projects where I can make a difference ✨！
 
 Right now, I’m leveling up in machine learning and predictive analytics, focusing on using these skills to make smarter decisions and develop better strategies. Let’s collaborate 💌 !
