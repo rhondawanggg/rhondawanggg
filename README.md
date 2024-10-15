@@ -11,6 +11,8 @@ Right now, I’m leveling up in machine learning and predictive analytics, focus
 
 - 🎵 Quantitative Analysis of Spotify’s Top 50 Tracks: Utilized Python and Pandas to uncover trends in Spotify’s top 50 tracks, analyzing song attributes like danceability and genre in relation to their popularity. This project provided key insights into how users engage with music on a global scale.
 
+- 🌐 VitalPath (**HackHarvard 2024**): Developed a website to deliver real-time health insights by collecting self-reported data and using AI to predict potential health conditions. Collaborated with a team to build a machine learning model, focusing on diseases like diabetes and hypertension, and connected users to remote healthcare resources for timely medical attention.
+
 ## 🏹 Follow My Journey：
 - Interested in data-driven projects or machine learning collaborations? Reach out to me through [LinkedIn](https://www.linkedin.com/in/rhonda-wang/).
 - Got questions or want to discuss data trends? I’m always happy to chat 💭!
@@ -18,8 +20,8 @@ Right now, I’m leveling up in machine learning and predictive analytics, focus
 ## ⚙️ My Development Environment：
 I primarily use Python for my projects, focusing on data analysis, machine learning, and geospatial analysis. My typical development environment includes:
 - 💻 Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 💡 Tools & Platforms: Jupyter Notebook, Microsoft Excel, Tableau, Power BI
-- 🕰️ Machine Learning: Linear/Logistic Regression, Decision Trees, Time Series Analysis
+- 💡 Tools & Platforms: VS Code, Jupyter Notebook, SQL, Microsoft Office
+- 🕰️ Machine Learning: Linear/Logistic Regression, Decision Trees, Time Series & Predictive Analysis
 - 🌱 OS: MacOS, with frequent experimentation on Linux systems for open-source projects
 
 ## 🥥 On Documentation：
