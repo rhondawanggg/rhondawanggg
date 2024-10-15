@@ -20,7 +20,7 @@ Right now, I’m leveling up in machine learning and predictive analytics, focus
 ## ⚙️ My Development Environment：
 I primarily use Python for my projects, focusing on data analysis, machine learning, and geospatial analysis. My typical development environment includes:
 - 💻 Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 💡 Tools & Platforms: VS Code, Jupyter Notebook, SQL, Microsoft Office
+- 💡 Tools & Platforms: VS Code, Jupyter Notebook, Microsoft Office
 - 🕰️ Machine Learning: Linear/Logistic Regression, Decision Trees, Time Series & Predictive Analysis
 - 🌱 OS: MacOS, with frequent experimentation on Linux systems for open-source projects
 
