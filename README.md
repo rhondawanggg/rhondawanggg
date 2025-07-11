@@ -18,10 +18,10 @@ Right now, I’m leveling up in machine learning and predictive analytics, focus
 - Got questions or want to discuss data trends? I’m always happy to chat 💭!
 
 ## ⚙️ My Development Environment：
-I primarily use Python for my projects, focusing on data analysis, machine learning, and geospatial analysis. My typical development environment includes:
-- 💻 Programming Languages: Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 💡 Tools & Platforms: VS Code, Jupyter Notebook, Microsoft Office
-- 🕰️ Machine Learning: Linear/Logistic Regression, Decision Trees, Time Series & Predictive Analysis
+- 💻 Programming Languages: Python, C++, Java, SQL, SPSS, R
+- 💡 Software & Platforms: Cursor, VS Code, Jupyter Notebook, Tableau, MySQL, Power BI
+- 🔖 Libraries & Frameworks: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, Pytorch, Tensorflow, NLTK
+- 🕰️ Machine Learning Skills: ETL Processes, Hypothesis Testing, Linear/Logistic Regression, Decision Trees, Classification Algorithms, Time Series Analysis, Geospatial Analysis, Predictive Analysis, Data Integration and Visualization
 - 🌱 OS: MacOS, with frequent experimentation on Linux systems for open-source projects
 
 ## 🥥 On Documentation：
