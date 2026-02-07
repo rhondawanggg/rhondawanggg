@@ -19,7 +19,7 @@ Right now, I’m leveling up in machine learning and predictive analytics, focus
 
 ## ⚙️ My Development Environment：
 - 💻 Programming Languages: Python, C++, Java, SQL, SPSS, R
-- 💡 Software & Platforms: Cursor, VS Code, Jupyter Notebook, Tableau, MySQL, Power BI
+- 💡 Software & Platforms: Cursor, VS Code, Jupyter Notebook, Tableau, MySQL, Power BI, Linux
 - 🔖 Libraries & Frameworks: Pandas, Numpy, Scipy, Scikit-Learn, Matplotlib, Seaborn, Pytorch, Tensorflow, NLTK
 - 🕰️ Machine Learning Skills: ETL Processes, Hypothesis Testing, Linear/Logistic Regression, Decision Trees, Classification Algorithms, Time Series Analysis, Geospatial Analysis, Predictive Analysis, Data Integration and Visualization
 - 🌱 OS: MacOS, with frequent experimentation on Linux systems for open-source projects
